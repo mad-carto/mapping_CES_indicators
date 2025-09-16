@@ -41,25 +41,16 @@ Clone this repository and open the Jupyter Notebooks in Jupyter Lab
    jupyterlab
 ```
 ---
+
 ## Citation  
 
 If you use the notebooks or build upon this workflow, please cite the original article:  
 
 > Gugulica, M., & Burghardt, D. (2023). *Mapping indicators of cultural ecosystem services use in urban green spaces based on text classification of geosocial media data*. Ecosystem Services, 60, 101508. https://doi.org/10.1016/j.ecoser.2022.101508  
 
-### BibTeX  
+If you use the code or supplementary material from this repository, please cite:  
 
-```bibtex
-@article{gugulica2023mapping,
-  title={Mapping indicators of cultural ecosystem services use in urban green spaces based on text classification of geosocial media data},
-  author={Gugulica, Madalina and Burghardt, Dirk},
-  journal={Ecosystem Services},
-  volume={60},
-  pages={101508},
-  year={2023},
-  publisher={Elsevier},
-  doi={10.1016/j.ecoser.2022.101508}
-}
+> Gugulica, M. (2025). *Mapping CES Indicators — Supplementary Material* [Code and data]. Zenodo. https://doi.org/10.5281/zenodo.17131841  
 
    
 
