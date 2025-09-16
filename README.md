@@ -1,5 +1,8 @@
 # Mapping indicators of cultural ecosystem services use in urban green spaces based on text classification of geosocial media data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17131841.svg)](https://doi.org/10.5281/zenodo.17131841)
+
+
 This repository contains supplementary material for the article:  
 
 **Gugulica, M., & Burghardt, D. (2023). Mapping indicators of cultural ecosystem services use in urban green spaces based on text classification of geosocial media data. *Ecosystem Services, 60*, 101508. https://doi.org/10.1016/j.ecoser.2022.101508**  
